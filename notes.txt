@@ -1,0 +1,37 @@
+https://github.com/nijishvk/iPolitics.git
+
+technologies
+-maven
+-spring MVC
+-hibernate
+-Metro UI
+-jquery
+-jBoss
+-PostgreSQL 
+
+workshops
+-maven
+-Git
+-PostgreSQL 
+-jboss
+
+
+-requiremnt gathering
+-RFP
+-SOW
+-Use cases
+-LLD
+-Architechture
+-Test cases
+-HLD
+-Coding
+-Testing
+-Deployement
+-Maintatanance
+
+ToDo
+- prepare time lines.
+
+
+
+
