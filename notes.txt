@@ -33,5 +33,16 @@ ToDo
 - prepare time lines.
 
 
+CPU intel i5 4570 - 14080rs
+MOBO gigabyte b85 - 6065rs
+RAm kingston hyperx 2x4gb 1600mhz- 4399rs
+hdd WD 1tb 64mb cache 4123rs
+CASE antec x1 2455rs
+PSU seasonic 600w 4105rs
+
+
+a total of rs 35277rs
+
+
 
 
